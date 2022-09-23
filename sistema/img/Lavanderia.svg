@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="Lavanderia.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.4621022"
+     inkscape:cx="-32.695637"
+     inkscape:cy="31.274088"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+       id="path2625"
+       cx="90.136063"
+       cy="89.557617"
+       rx="88.136063"
+       ry="89.151459" />
+    <g
+       id="g2521"
+       transform="matrix(1.348601,0,0,1.2211882,170.07944,-19.91855)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="rect940"
+         width="90.979164"
+         height="98.696152"
+         x="-103.97619"
+         y="41.021858"
+         ry="11.778552" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00558px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -104.60079,63.766603 c 91.979009,0.406243 91.979009,0.406243 91.979009,0.406243 h -0.821241"
+         id="path1841" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="path1945"
+         cx="-60.517387"
+         cy="98.899223"
+         rx="27.618675"
+         ry="27.009439" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.897769;stroke-linecap:round;stroke-opacity:1"
+         id="path1945-1"
+         cx="-60.517384"
+         cy="98.696144"
+         rx="24.826693"
+         ry="24.217457" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="rect2071"
+         width="68.234375"
+         height="4.8738837"
+         x="-94.228416"
+         y="139.718"
+         ry="2.4369419" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="path2175"
+         cx="-49.95731"
+         cy="53.8158"
+         rx="4.0615697"
+         ry="4.2646484" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="path2175-0"
+         cx="-38.991074"
+         cy="54.018883"
+         rx="4.0615697"
+         ry="4.2646484" />
+      <ellipse
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="path2175-9"
+         cx="-28.024836"
+         cy="53.61272"
+         rx="4.0615697"
+         ry="4.2646484" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-opacity:1"
+         id="rect2314"
+         width="23.150948"
+         height="6.0923548"
+         x="-92.60379"
+         y="50.769623"
+         ry="2.43694" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -84.886809,102.35156 c 3.667724,-0.16322 7.665771,-1.05904 11.372395,0 1.437653,0.41076 3.074491,0.75406 4.467727,1.21847 1.315775,0.43859 1.281397,2.56279 1.624628,3.24926 0.308639,0.61727 1.333095,0.92693 1.624628,1.21847 0.09573,0.0957 -0.09573,0.31042 0,0.40615 0.38054,0.38054 3.994184,0.67755 4.06157,0.81232 0.121092,0.24218 -0.121093,0.57013 0,0.81231 0.01656,0.0331 3.291683,0 4.467726,0 0.915992,0 3.230571,0.4155 4.06157,0 0.619573,-0.30978 1.018884,-0.9156 1.624628,-1.21847 0.968996,-0.4845 2.245424,-0.005 3.249256,-0.40616 0.562158,-0.22486 1.050235,-0.62085 1.624628,-0.81231 1.29346,-0.43115 3.264435,0.60165 4.467727,0 1.53064,-0.76532 3.375518,-1.62463 4.873884,-1.62463"
+         id="path2429" />
+    </g>
+  </g>
+</svg>

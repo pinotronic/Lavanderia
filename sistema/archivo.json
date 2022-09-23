@@ -1,0 +1,56 @@
+[
+    {
+        "Cantidad": 1,
+        "id": 1,
+        "descripcion": "pantalon",
+        "color": "rojo",
+        "avisos":"Sin Garantia",
+        "precio": 100,
+        "valor": 100
+    },
+    {
+      "Cantidad": 3,
+      "id": 2,
+      "descripcion": "camisa",
+      "color": "rojo",
+      "avisos":"Sin Garantia",
+      "precio": 100,
+      "valor": 200
+    },
+    {
+        "Cantidad": 1,
+        "id": 3,
+        "descripcion": "falda",
+        "color": "rojo",
+        "avisos":"Sin Garantia",
+        "precio": 100,
+        "valor": 300
+    },
+    {
+        "Cantidad": 2,
+        "id": 4,
+        "descripcion": "blusa",
+        "color": "rojo",
+        "avisos":"Sin Garantia",
+        "precio": 100,
+        "valor": 400
+    },
+    {
+        "Cantidad": 1,
+        "id": 5,
+        "descripcion": "vestido novia",
+        "color": "rojo",
+        "avisos":"Sin Garantia",
+        "precio": 100,
+        "valor": 700
+    },
+    {
+        "Cantidad": 3,
+        "id": 6,
+        "descripcion": "velo",
+        "color": "rojo",
+        "avisos":"Sin Garantia",
+        "precio": 100,
+        "valor": 800
+    }
+  ]
