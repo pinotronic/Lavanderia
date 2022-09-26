@@ -140,6 +140,7 @@ const pintarFooter = () => {
     const boton = document.querySelector('#vaciar-carrito')
     boton.addEventListener('click', () => {
         carrito = {}
+        limpiarTotales()
         pintarCarrito()
     })
 
@@ -178,3 +179,10 @@ function llenarTotales(nPrecio){
     document.querySelector('#total').value = total
 }
 
+function limpiarTotales(){
+    document.querySelector('#subTotal').value = "0.0"
+    document.querySelector('#iva').value = "0.0"
+    document.querySelector('#total').value = "0.0"
+    document.querySelector('#saldo').value = "0.0"
+    document.querySelector('#prepago').value = "0.0"
+}

@@ -18,10 +18,11 @@
 
     <br>
     <div class="container-fluid bg-dark"><!-- Tarjeta Clientes --> 
-    <br>
+        <br>
         <div class="card mx-auto">
             <div class="card-body">
-                <div class="col-6">                
+                <div class="row">
+                <div class="col-3">                
                     <label for="cliente">Clientes</label>
                     <select id="cliente" name="cliente">
                         <?php
@@ -33,15 +34,15 @@
                         <?php } ?>
                     </select>
                 </div>
-
-
-                <?php
-                    echo "<a href='index.php?pid=" . ("vistas/frm_ClientesAlta") . "'>
-                            <p>➕ Nuevo Cliente</p>
-                            <span class='fas ' data-toggle='tooltip' data-placement='left'  class='tooltipLink' data-original-title='Crear Cliente'>
-                            </span>
-                            </a>";
-                ?>
+                <div class="col-3">
+                    <?php
+                        echo "<a href='index.php?pid=" . ("vistas/frm_ClientesAlta") . "'>
+                                <p>➕ Nuevo Cliente</p>
+                                <span class='fas ' data-toggle='tooltip' data-placement='left'  class='tooltipLink' data-original-title='Crear Cliente'></span>
+                                </a>";
+                    ?>                
+                </div>
+                </div>                
             </div>
         </div>
         <br>
